@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/dependency-injection": "^4.0",
+        "doctrine/annotations": "^1.6",
+        "php-console/php-console": "^3.1"
+    }
+}
