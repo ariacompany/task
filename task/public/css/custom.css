@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Oldenburg-Regular;
+    src: url('../../resources/assets/Fonts/Oldenburg-Regular.ttf');
+    src: url('../../resources/assets/Fonts/Oldenburg-Regular.ttf') format('ttf'),
+         url('../../resources/assets/Fonts/Oldenburg-Regular.ttf') format('TrueType');
+}
+
+.font-Oldenburg{
+    font-family: Oldenburg-Regular;
+    font-size: 14px;
+}
